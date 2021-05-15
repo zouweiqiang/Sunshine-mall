@@ -1,0 +1,7 @@
+<view class="yggw_index">
+  <!-- 搜索框开始 -->
+  <SearchInput>
+
+  </SearchInput>
+  <!-- 搜索框结束 -->
+</view>
