@@ -1,5 +1,5 @@
 {
-  "pages":[ 
+  "pages":[
     "pages/index/index", 
     "pages/categroy/index",
     "pages/goods_list/index",

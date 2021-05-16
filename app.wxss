@@ -13,3 +13,7 @@ page {
   /* 定义统一字体大小 设计稿大小375px 1px = 2rpx */
   font-size: 28rpx;
 }
+image {
+  width: 100%;
+}
+

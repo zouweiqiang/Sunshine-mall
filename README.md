@@ -13,6 +13,7 @@
 ​       https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 
   官方文档：https://developers.weixin.qq.com/miniprogram/dev/framework/
+  轮播图等API接口：https://www.showdoc.com.cn/128719739414963?page_id=2513235043485226
 
 #### 项目细节
 
