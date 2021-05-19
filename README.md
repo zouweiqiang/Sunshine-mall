@@ -364,7 +364,7 @@ const userInfo = wx.getStorageSync('userInfo')
 
 #### 项目截图
 
-![输入图片说明](https://riyugo.com/i/2021/05/19/nb1czk.png "屏幕截图.png")
+![1.png](https://riyugo.com/i/2021/05/19/nb1czk.png "屏幕截图.png")
 ![输入图片说明](https://riyugo.com/i/2021/05/19/nb21u3.png "屏幕截图.png")
 ![输入图片说明](https://riyugo.com/i/2021/05/19/nb2gym.png "屏幕截图.png")
 ![输入图片说明](https://riyugo.com/i/2021/05/19/nb2s0j.png "屏幕截图.png")
