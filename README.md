@@ -364,10 +364,10 @@ const userInfo = wx.getStorageSync('userInfo')
 
 #### 项目截图
 
-![图片1.png](https://i.loli.net/2021/05/19/4WGanfY6lthvob5.png)
-![图片2.png](https://i.loli.net/2021/05/19/i87ZCDqa5KHPdbm.png)
-![图片3.png](https://i.loli.net/2021/05/19/UXQtyxw91NjOfWi.png)
-![图片4.png](https://i.loli.net/2021/05/19/QwiLghtRfpOITUW.png)
-![图片5.png](https://i.loli.net/2021/05/19/fjtNBynU9kXTaQG.png)
-![图片6.png](https://i.loli.net/2021/05/19/n5tus6jylzPYvSd.png)
-![图片7.png](https://i.loli.net/2021/05/19/pEdD5ohZUJrPIAL.png)
+![图片1.png](https://gitee.com/z1070911992/Sunshine-mall/raw/main/screenshot/%E5%9B%BE%E7%89%871.png)
+![图片2.png](https://gitee.com/z1070911992/Sunshine-mall/raw/main/screenshot/%E5%9B%BE%E7%89%872.png)
+![图片3.png](https://gitee.com/z1070911992/Sunshine-mall/raw/main/screenshot/%E5%9B%BE%E7%89%873.png)
+![图片4.png](https://gitee.com/z1070911992/Sunshine-mall/raw/main/screenshot/%E5%9B%BE%E7%89%874.png)
+![图片5.png](https://gitee.com/z1070911992/Sunshine-mall/raw/main/screenshot/%E5%9B%BE%E7%89%875.png)
+![图片6.png](https://gitee.com/z1070911992/Sunshine-mall/raw/main/screenshot/%E5%9B%BE%E7%89%876.png)
+![图片7.png](https://gitee.com/z1070911992/Sunshine-mall/raw/main/screenshot/%E5%9B%BE%E7%89%877.png)
