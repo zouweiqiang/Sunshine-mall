@@ -2,7 +2,7 @@
 
 #### 介绍
 
-2021年5月6日-2021年5月12日在校参加微信小程序培训，由黑马讲师授课，能够利用微信提供的组件和API实现轮播图、授权用户信息、上拉加载更多等功能，由于之前对uniapp的学习打下了基础，在这次实训中能够轻松应对老师的任务，并担任技术组长，帮助大家解决代码问题。在本次实训中主要学习了之前没有接触过的购物车的逻辑。
+2021年5月6日-2021年5月12日在B站观看小程序开发，由黑马讲师授课，能够利用微信提供的组件和API实现轮播图、授权用户信息、上拉加载更多等功能。在本次实训中主要学习了之前没有接触过的购物车的逻辑。
 
 #### 项目准备
 
@@ -364,10 +364,10 @@ const userInfo = wx.getStorageSync('userInfo')
 
 #### 项目截图
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202140_cea6661a_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202156_4f48110a_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202222_3ceac29d_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202237_4a7e2a28_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202306_cb5c75e6_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202324_610a84d7_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202340_22e8c495_8375601.png "屏幕截图.png")
+![输入图片说明](https://riyugo.com/i/2021/05/19/nb1czk.png "屏幕截图.png")
+![输入图片说明](https://riyugo.com/i/2021/05/19/nb21u3.png "屏幕截图.png")
+![输入图片说明](https://riyugo.com/i/2021/05/19/nb2gym.png "屏幕截图.png")
+![输入图片说明](https://riyugo.com/i/2021/05/19/nb2s0j.png "屏幕截图.png")
+![输入图片说明](https://riyugo.com/i/2021/05/19/nb3g2v.png "屏幕截图.png")
+![输入图片说明](https://riyugo.com/i/2021/05/19/nb3mcn.png "屏幕截图.png")
+![输入图片说明](https://riyugo.com/i/2021/05/19/nb3uh4.png "屏幕截图.png")
