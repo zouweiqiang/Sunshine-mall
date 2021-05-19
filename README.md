@@ -364,15 +364,6 @@ const userInfo = wx.getStorageSync('userInfo')
 
 #### 项目截图
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202140_cea6661a_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202156_4f48110a_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202222_3ceac29d_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202237_4a7e2a28_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202306_cb5c75e6_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202324_610a84d7_8375601.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/202340_22e8c495_8375601.png "屏幕截图.png")
-
-
 ![输入图片说明](https://riyugo.com/i/2021/05/19/nb1czk.png "屏幕截图.png")
 ![输入图片说明](https://riyugo.com/i/2021/05/19/nb21u3.png "屏幕截图.png")
 ![输入图片说明](https://riyugo.com/i/2021/05/19/nb2gym.png "屏幕截图.png")
