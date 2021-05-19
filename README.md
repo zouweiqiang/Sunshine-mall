@@ -364,10 +364,10 @@ const userInfo = wx.getStorageSync('userInfo')
 
 #### 项目截图
 
-![1.png](https://riyugo.com/i/2021/05/19/nb1czk.png "屏幕截图.png")
-![输入图片说明](https://riyugo.com/i/2021/05/19/nb21u3.png "屏幕截图.png")
-![输入图片说明](https://riyugo.com/i/2021/05/19/nb2gym.png "屏幕截图.png")
-![输入图片说明](https://riyugo.com/i/2021/05/19/nb2s0j.png "屏幕截图.png")
-![输入图片说明](https://riyugo.com/i/2021/05/19/nb3g2v.png "屏幕截图.png")
-![输入图片说明](https://riyugo.com/i/2021/05/19/nb3mcn.png "屏幕截图.png")
-![输入图片说明](https://riyugo.com/i/2021/05/19/nb3uh4.png "屏幕截图.png")
+![图片1.png](https://i.loli.net/2021/05/19/4WGanfY6lthvob5.png)
+![图片2.png](https://i.loli.net/2021/05/19/i87ZCDqa5KHPdbm.png)
+![图片3.png](https://i.loli.net/2021/05/19/UXQtyxw91NjOfWi.png)
+![图片4.png](https://i.loli.net/2021/05/19/QwiLghtRfpOITUW.png)
+![图片5.png](https://i.loli.net/2021/05/19/fjtNBynU9kXTaQG.png)
+![图片6.png](https://i.loli.net/2021/05/19/n5tus6jylzPYvSd.png)
+![图片7.png](https://i.loli.net/2021/05/19/pEdD5ohZUJrPIAL.png)
